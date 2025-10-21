@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+    <p>
+    El efecto dominó
+El emperador austro-húngaro, apoyado por Alemania, culpó a Serbia por el atentado.<br>
+Serbia era aliada de Rusia, que a su vez era aliada de Francia. Pocos días después,<br>
+Alemania declaraba la guerra a Francia e invadía Bélgica, lo que provocó la reacción<br> 
+inglesa y su entrada en el conflicto. Comenzaba así la Primera Guerra Mundial,<br>
+en la que se enfrentaron dos bloques: por un lado, los países de la Triple Entente,<br>
+llamados comúnmente «aliados»: Rusia, Francia, Gran Bretaña, a la que más tarde se<br>
+sumarían Italia (en 1915) y los EE.UU. (en 1917); y por el otro, los de la Triple Alianza,<br>
+conocidos como «Potencias Centrales”: Alemania, Austria-Hungría y Turquía.<br>
+   <p>
+  
+    <img src="war3.png">
+
+     <title>Resumen de la Primera Guerra Mundial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #8b0000;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #fff;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #dcdcdc;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Primera Guerra Mundial - Información Relevante</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Categoría</th>
+                <th>Detalle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Duración</td>
+                <td>28 de julio de 1914 – 11 de noviembre de 1918</td>
+            </tr>
+            <tr>
+                <td>Países Principales (Aliados)</td>
+                <td>Francia, Reino Unido, Rusia, Italia (desde 1915), Estados Unidos (desde 1917)</td>
+            </tr>
+            <tr>
+                <td>Países Principales (Potencias Centrales)</td>
+                <td>Alemania, Austria-Hungría, Imperio Otomano, Bulgaria</td>
+            </tr>
+            <tr>
+                <td>Causa Inmediata</td>
+                <td>Asesinato del archiduque Francisco Fernando de Austria en Sarajevo</td>
+            </tr>
+            <tr>
+                <td>Consecuencias</td>
+                <td>Millones de muertos, colapso de imperios, Tratado de Versalles, creación de la Sociedad de Naciones</td>
+            </tr>
+            <tr>
+                <td>Batallas Importantes</td>
+                <td>Batalla del Somme, Batalla de Verdún, Batalla de Gallípoli, Batalla de Marne</td>
+            </tr>
+            <tr>
+                <td>Tecnología Bélica</td>
+                <td>Uso de trincheras, ametralladoras, tanques, gases tóxicos, aviones y submarinos</td>
+            </tr>
+            <tr>
+                <td>Fin del Conflicto</td>
+                <td>Armisticio del 11 de noviembre de 1918; Tratado de Versalles firmado en 1919</td>
+            </tr>
+        </tbody>
+    </table>
+
+</html>
